@@ -15,7 +15,7 @@ header:
     - label: "Course Policies"
       url: "/policies/"
 excerpt: "Text Technologies from the Printing Press to the Smartphone.
-Northwestern University. Spring 2020."
+Northwestern University. Spring 2021."
 ---
 
 ## Course Description
