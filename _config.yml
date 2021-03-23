@@ -33,6 +33,7 @@ twitter_username: johnrladd
 github_username:  jrladd
 repository: "jrladd/info_overload"
 search: true
+future: false
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.22.0" 
