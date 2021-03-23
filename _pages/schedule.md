@@ -10,7 +10,7 @@ toc: true
 
 **Tuesdays we will meet as a group on Zoom; Thursdays you will work independently.**
 
-**Workshops for Thursday will be posted immediately after Tuesday's class, to the [Workshops](/workshops/) page.**
+**Workshops for Thursday will be posted immediately after Tuesday's class, to the [Workshops](/info_overload/workshops/) page.**
 
 Date|Material
 --|---
