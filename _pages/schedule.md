@@ -27,12 +27,12 @@ Tue 20 Apr|*The Staple of News*, Acts IV & V
 by Thu 22 Apr|Workshop: EEBO, XML, & Digital Editing
 **Week 5**|
 Tue 27 Apr|*Areopagitica*, *The Narrative of Frederick Douglas* Ch. 1, 6, & 7
-by Thu 29 Apr|No Workshop, work on midterm
+by Thu 29 Apr|Workshop: Networks
 **Week 6**|
-Mon 3 May|Midterm Essay Due
 Tue 4 May|Dickinson poems, [When Novels Were Bad for You](https://op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/), [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/)
-by Thu 6 May|Workshop: Networks
+by Thu 6 May|No Workshop, work on midterm
 **Week 7**|
+Mon 10 May|Midterm Essay Due
 Tue 11 May|Selections from *Americanah* and from *Algorithms of Oppression*
 by Thu 13 May|Workshop: Text as Interface
 **Week 8**|
@@ -42,8 +42,8 @@ by Thu 20 May|Workshop: Poetry chatbot
 Tue 25 May|*Station Eleven*, more from *Algorithms of Oppression*
 by Thu 27 May|Workshop: Building a search engine
 **Week 10**|
-Mon 1 June|Lightning Presentations and Wrap-Up
-by Wed 3 June|Workshop: Work on your Final Projects (meet w/ me individually)
+Tue 1 June|Lightning Presentations and Wrap-Up
+by Thu 3 June|Workshop: Work on your Final Projects (meet w/ me individually)
 
 ## Course Materials
 

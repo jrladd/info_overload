@@ -27,10 +27,10 @@ A Note on Email: Since this course will be remote, your primary way of contactin
 You'll be assessed in this class based on your participation in discussions, as well as written assignments and a presentation. This is not a technical course, and you will **NOT** be assessed based on technical expertise in any of the workshops. Instead, you'll be asked to write short reflections on the ways that workshop activities connect to the themes and readings of the course.You'll also write 3 brief responses to your classmates' reflections at some point throughout the quarter.
 
 - 25%: Workshop Reflections and Responses
-- 20%: Midterm Essay (due Friday 8 May)
+- 20%: Midterm Essay (due Monday 10 May)
 - 25%: Class Participation
 - 10%: Final Presentation
-- 20%: Final Project (due Monday 8 June)
+- 20%: Final Project (due Tuesday 8 June)
 
 More information on all these assignments, including the midterm essay, presentation, and final project, will be distributed at a later time on separate assignment sheets.
 
