@@ -1,6 +1,6 @@
 ---
 title:  "Workshop 2: How Books Are Made"
-date:   2021-04-13 13:50:00 -0500
+date:   2021-04-13 11:50:00 -0500
 ---
 **Complete by: Thu. 15 Apr.**
 
