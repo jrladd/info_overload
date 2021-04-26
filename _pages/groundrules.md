@@ -1,6 +1,6 @@
 ---
 title: Ground Rules for Learning Tech Together
-permalink: /credits/
+permalink: /groundrules/
 ---
 
 *These rules are taken almost verbatim from Miriam Posner, and her original version can be found [in this tweet](https://twitter.com/miriamkp/status/1349095892700205057).*
