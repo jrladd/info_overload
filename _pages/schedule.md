@@ -33,7 +33,7 @@ Tue 4 May|Dickinson poems, [When Novels Were Bad for You](https://op-talk.blogs.
 by Thu 6 May|No Workshop, work on midterm
 **Week 7**|
 Mon 10 May|Midterm Essay Due
-Tue 11 May|Selections from *Americanah* and from *Algorithms of Oppression*
+Tue 11 May|Selections from *Americanah*
 by Thu 13 May|Workshop: Text as Interface
 **Week 8**|
 Tue 18 May|*Station Eleven*
