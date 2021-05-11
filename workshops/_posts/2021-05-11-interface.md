@@ -1,6 +1,6 @@
 ---
 title:  "Workshop 5: Text as Interface"
-date:   2021-05-11 13:50:00 -0500
+date:   2021-05-11 12:50:00 -0500
 ---
 **Complete by: Thu. 13 May**
 
@@ -14,5 +14,5 @@ Once you have a terminal open on your computer, follow the step-by-step exercise
 
 As always, **don't hesitate to contact me if you have any questions or run into any problems**. It's possible that not every command will work exactly the same on everyone's computer, so if something isn't working right just let me know right away and don't stress about it. We'll work together to fix the problem.
 
-When you're done, write a one-paragraph reflection on this exercise for the Canvas discussion board. Give special attention to the difference between text as *communication* and text as *interface*.
+When you're done, write a reflection on this exercise for the Canvas discussion board. Give special attention to the difference between text as *communication* and text as *interface*.
 
